@@ -1,0 +1,20 @@
+# Installed dependencies
+node_modules/
+
+# Build output and generated reports
+dist/
+coverage/
+*.tsbuildinfo
+
+# Local environment values (keep a shareable template if added)
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db
+Desktop.ini

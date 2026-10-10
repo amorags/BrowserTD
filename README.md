@@ -61,3 +61,4 @@ Paste this when starting a chat in this project:
 > Continue our Towerbloom pair-programming project. Read AGENTS.md, docs/PROGRESS.md, and the current milestone in docs/ROADMAP.md. Inspect the relevant current files before suggesting edits. Tell me the next small action and guide me through it with small snippets and exact insertion points. I will edit the game code unless I explicitly ask you to do so. Preserve my design choices, and help me keep the progress documents current.
 
 The roadmap is a sequence of working increments, not a deadline. A milestone may take several sessions, and design choices can change as we try the game.
+
